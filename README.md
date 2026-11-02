@@ -2,13 +2,13 @@
 
 Ein persönlicher Morgenüberblick für Android TV: Nachrichten, nächste Kalendertermine, Tageswetter und Schweizer Zugverbindungen.
 
-**Status: frühe Alpha.** Das Projekt entstand schrittweise auf einem Philips Google TV mit Android 14 und wurde mit KI-Unterstützung entwickelt. Die Veröffentlichungskopie ergänzt einstellbare Orte, Bahnhöfe und Gehzeit. Diese zusätzlichen Einstellungen sind kompiliert und mit JVM-Tests geprüft, aber noch nicht auf mehreren TV-Modellen getestet.
-
 ## Screenshot
 
-![Morgenblick mit Nachrichten, unkenntlich gemachtem Kalender, Wetter und Zugverbindungen](docs/screenshots/overview-redacted.png)
+![Morgenblick mit Nachrichten, unkenntlich gemachtem Kalender, Wetter und Zugverbindungen](https://raw.githubusercontent.com/vethu94/morgenblick/main/docs/screenshots/overview-redacted.png)
 
 Neuere TV-Aufnahme mit Nachrichten, Termin-Karten, Wetter, Regenhinweis und Zugverbindungen. Für die Veröffentlichung mit KI-Bildbearbeitung bearbeitet: Sämtliche Kalenderinhalte einschließlich Datum und Uhrzeit sind durch eine grobe Pixelmaske ersetzt. Nachrichten und Bilder stammen von den angezeigten Anbietern (siehe [THIRD_PARTY.md](THIRD_PARTY.md)).
+
+**Status: frühe Alpha.** Das Projekt entstand schrittweise auf einem Philips Google TV mit Android 14 und wurde mit KI-Unterstützung entwickelt. Die Veröffentlichungskopie ergänzt einstellbare Orte, Bahnhöfe und Gehzeit. Diese zusätzlichen Einstellungen sind kompiliert und mit JVM-Tests geprüft, aber noch nicht auf mehreren TV-Modellen getestet.
 
 ## Funktionen
 
