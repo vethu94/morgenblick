@@ -6,9 +6,9 @@ Ein persönlicher Morgenüberblick für Android TV: Nachrichten, nächste Kalend
 
 ## Screenshot
 
-![Morgenblick: Nachrichtenübersicht ohne verbundenen Kalender](docs/screenshots/overview-early.png)
+![Morgenblick mit Nachrichten, unkenntlich gemachtem Kalender, Wetter und Zugverbindungen](docs/screenshots/overview-redacted.png)
 
-Echte TV-Aufnahme einer früheren Entwicklungsfassung, ohne private Kalenderdaten. Die aktuelle Version enthält zusätzlich Termin-Karten, Wetter und Zugverbindungen; diese Funktionen sind auf dieser Aufnahme noch nicht zu sehen. Nachrichten und Bilder stammen von den angezeigten Anbietern (siehe [THIRD_PARTY.md](THIRD_PARTY.md)).
+Neuere TV-Aufnahme mit Nachrichten, Termin-Karten, Wetter, Regenhinweis und Zugverbindungen. Für die Veröffentlichung mit KI-Bildbearbeitung bearbeitet: Sämtliche Kalenderinhalte einschließlich Datum und Uhrzeit sind durch eine grobe Pixelmaske ersetzt. Nachrichten und Bilder stammen von den angezeigten Anbietern (siehe [THIRD_PARTY.md](THIRD_PARTY.md)).
 
 ## Funktionen
 
