@@ -1,0 +1,172 @@
+{
+  "connections": [
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T07:20:00+01:00",
+        "departureTimestamp": 1793600400,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T07:20:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T07:40:00+01:00",
+        "arrivalTimestamp": 1793601600
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    },
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T07:30:00+01:00",
+        "departureTimestamp": 1793601000,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T07:30:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T07:50:00+01:00",
+        "arrivalTimestamp": 1793602200
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    },
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T07:40:00+01:00",
+        "departureTimestamp": 1793601600,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T07:40:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T08:00:00+01:00",
+        "arrivalTimestamp": 1793602800
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    },
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T07:50:00+01:00",
+        "departureTimestamp": 1793602200,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T07:50:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T08:10:00+01:00",
+        "arrivalTimestamp": 1793603400
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    },
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T08:00:00+01:00",
+        "departureTimestamp": 1793602800,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T08:00:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T08:20:00+01:00",
+        "arrivalTimestamp": 1793604000
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    },
+    {
+      "from": {
+        "station": {
+          "id": "8507000",
+          "name": "Bern"
+        },
+        "departure": "2026-11-02T08:10:00+01:00",
+        "departureTimestamp": 1793603400,
+        "delay": 0,
+        "platform": "1",
+        "prognosis": {
+          "departure": "2026-11-02T08:10:00+01:00",
+          "platform": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8507100",
+          "name": "Thun"
+        },
+        "arrival": "2026-11-02T08:30:00+01:00",
+        "arrivalTimestamp": 1793604600
+      },
+      "products": [
+        "S1"
+      ],
+      "transfers": 0
+    }
+  ]
+}

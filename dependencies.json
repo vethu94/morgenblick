@@ -1,0 +1,27 @@
+[
+  {
+    "file": "biweekly-0.6.8.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/sf/biweekly/biweekly/0.6.8/biweekly-0.6.8.jar",
+    "sha256": "4077af25a5f932a609fe6a369082c3c383189e8a73b111bcdb3b1e03da635ffb"
+  },
+  {
+    "file": "jackson-annotations-2.16.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.16.1/jackson-annotations-2.16.1.jar",
+    "sha256": "a4730771e6a495dd3793a42cdb8ce6bddb96c77e15f40c98fd8d9a7ae09e7286"
+  },
+  {
+    "file": "jackson-core-2.16.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.16.1/jackson-core-2.16.1.jar",
+    "sha256": "f5f8ef90609e64fec82eb908e497dc7d81b2eb983fe509b870292a193cde4dfb"
+  },
+  {
+    "file": "jackson-databind-2.16.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.16.1/jackson-databind-2.16.1.jar",
+    "sha256": "baf8a8ebee8f45ef68cdd5e2dd3923b3e296c0937b96ec0b4806aa3a31bccd1d"
+  },
+  {
+    "file": "vinnie-2.0.2.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/github/mangstadt/vinnie/2.0.2/vinnie-2.0.2.jar",
+    "sha256": "f75c47679f85d8bb2a8508338c77fbe4d75520e551c3b93fde5cf93f7c5e59c4"
+  }
+]
