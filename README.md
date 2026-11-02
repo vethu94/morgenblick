@@ -4,6 +4,12 @@ Ein persönlicher Morgenüberblick für Android TV: Nachrichten, nächste Kalend
 
 **Status: frühe Alpha.** Das Projekt entstand schrittweise auf einem Philips Google TV mit Android 14 und wurde mit KI-Unterstützung entwickelt. Die Veröffentlichungskopie ergänzt einstellbare Orte, Bahnhöfe und Gehzeit. Diese zusätzlichen Einstellungen sind kompiliert und mit JVM-Tests geprüft, aber noch nicht auf mehreren TV-Modellen getestet.
 
+## Screenshot
+
+![Morgenblick: Nachrichtenübersicht ohne verbundenen Kalender](docs/screenshots/overview-early.png)
+
+Echte TV-Aufnahme einer früheren Entwicklungsfassung, ohne private Kalenderdaten. Die aktuelle Version enthält zusätzlich Termin-Karten, Wetter und Zugverbindungen; diese Funktionen sind auf dieser Aufnahme noch nicht zu sehen. Nachrichten und Bilder stammen von den angezeigten Anbietern (siehe [THIRD_PARTY.md](THIRD_PARTY.md)).
+
 ## Funktionen
 
 - Nachrichten der tagesschau mit Vorschaubildern und Bildquellen; OK öffnet den Originalartikel im vorhandenen TV-Browser.
